@@ -6,5 +6,12 @@
         va applicato uno sconto del 40% per gli over 65 (fortunelli :adulto_anziano:).
 
     -Strumenti
+        -const - let
         -prompt    
         -if eslse
+        -alert
+
+    -recuero eta e km dall'utente, mattendoli come constanti,
+    -analizzo i dati per torvare il costo originale sejza promozioni
+    -imposto le classi di eta in base al quale si applicano le condizioni di sconto 
+    -imposto il risultato con un alert     
